@@ -7,10 +7,21 @@ One of the most potent diseases we can find today is cancer. In this work, we fo
 
 This repository requires the following libraries and frameworks:
 
-    TensorFlow
-    numPy
-    OpenCV
-    Matplotlib
-    Time
-    random
-    os
+    ->TensorFlow
+    ->numPy
+    ->OpenCV
+    ->Matplotlib
+    ->Scikit Learn
+    
+# Labels
+
+
+
+Types of skin lesions     Class Abbrevation    Label     
+Actinic Kerastoses               akiec           0             
+Basal cell Carcinoma             bcc             1  
+Benign Keratosis                 bkl             2    
+Dermatofibroma                   df              3    
+Melanoma                         mel             4    
+Melanocytic nervi                nv              5   
+Vascular skin lesions            vasc            6
