@@ -17,11 +17,16 @@ This repository requires the following libraries and frameworks:
 
 
 
-Types of skin lesions     Class Abbrevation    Label     
-Actinic Kerastoses               akiec           0             
-Basal cell Carcinoma             bcc             1  
-Benign Keratosis                 bkl             2    
-Dermatofibroma                   df              3    
-Melanoma                         mel             4    
-Melanocytic nervi                nv              5   
-Vascular skin lesions            vasc            6
+Types of skin lesions-----------Class Abbrevation--------Label     
+Actinic Kerastoses----------------akiec---------------------0             
+Basal cell Carcinoma--------------bcc-----------------------1  
+Benign Keratosis------------------bkl-----------------------2    
+Dermatofibroma--------------------df------------------------3    
+Melanoma--------------------------mel-----------------------4    
+Melanocytic nervi-----------------nv -----------------------5   
+Vascular skin lesions-------------vasc----------------------6
+
+
+# Database
+Ham10000 database
+## https://dataverse.harvard.edu/file.xhtml?persistentId=doi:10.7910/DVN/DBW86T/GQGSWO&version=2.0
