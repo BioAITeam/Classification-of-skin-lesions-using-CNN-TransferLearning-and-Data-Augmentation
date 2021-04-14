@@ -64,7 +64,7 @@ Universidad Autonoma de Manizales (https://www.autonoma.edu.co/)
 - Harold Brayan Arteaga-Arteaga
 - Alejandro Mora-Rubio
 - Jesus Alejandro Alzate-Grisales
-- Esteban Mercado Ruiz
+- Esteban Mercado-Ruiz
 - Simon Orozco-Arias
 - Oscar Cardona-Morales
 - Reinel Tabares-Soto
