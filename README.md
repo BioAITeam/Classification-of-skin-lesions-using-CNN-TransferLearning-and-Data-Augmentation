@@ -54,20 +54,29 @@ conda install -c trentonoliphant datetime
 conda install -c districtdatalabs yellowbrick
 ```
 
-# Labels
+## Authors
+Universidad Autonoma de Manizales (https://www.autonoma.edu.co/)
+
+- Juan Pablo Villa Pulgarin
+- Anderson Alberto Ruales Torres
+- Daniel Arias-Garzón
+- Alejandro Bravo Ortiz
+- Harold Brayan Arteaga Arteaga
+- Jesus Alejandro Alzate Grisales
+- Simon Orozco Arias
+- Oscar Cardona-Morales
+- Reinel Tabares Soto
+
+
+South Valley University (https://www.svu.edu.eg/faculties/fci/en/home-page-en/)
+- M. Hassaballah
 
 
 
-Types of skin lesions-----------Class Abbrevation--------Label     
-Actinic Kerastoses----------------akiec---------------------0             
-Basal cell Carcinoma--------------bcc-----------------------1  
-Benign Keratosis------------------bkl-----------------------2    
-Dermatofibroma--------------------df------------------------3    
-Melanoma--------------------------mel-----------------------4    
-Melanocytic nervi-----------------nv -----------------------5   
-Vascular skin lesions-------------vasc----------------------6
 
 
-# Database
+# Database 
 Ham10000 database
 ## https://dataverse.harvard.edu/file.xhtml?persistentId=doi:10.7910/DVN/DBW86T/GQGSWO&version=2.0
+ISIC 2019 database
+## https://challenge2019.isic-archive.com/data.html
