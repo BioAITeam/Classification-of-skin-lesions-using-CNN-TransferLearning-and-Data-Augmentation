@@ -68,7 +68,7 @@ Universidad Autonoma de Manizales (https://www.autonoma.edu.co/)
 - Reinel Tabares Soto
 
 
-South Valley University (https://www.svu.edu.eg/faculties/fci/en/home-page-en/)
+South Valley University (https://www.svu.edu.eg/en/)
 - M. Hassaballah
 
 
