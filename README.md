@@ -60,8 +60,9 @@ Universidad Autonoma de Manizales (https://www.autonoma.edu.co/)
 - Juan Pablo Villa Pulgarin
 - Anderson Alberto Ruales Torres
 - Daniel Arias-Garzón
-- Alejandro Bravo Ortiz
+- Mario Alejandro Bravo-Ortiz
 - Harold Brayan Arteaga Arteaga
+- Alejandro Mora-Rubio
 - Jesus Alejandro Alzate Grisales
 - Simon Orozco Arias
 - Oscar Cardona-Morales
