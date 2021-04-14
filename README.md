@@ -42,6 +42,7 @@ conda install -c anaconda keras-gpu==2.4.3
 ```
 Now, install the libraries.
 ```
+pip install tensorflow
 pip install opencv-python
 conda install -c conda-forge matplotlib
 conda install -c anaconda scipy
