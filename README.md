@@ -61,12 +61,12 @@ Universidad Autonoma de Manizales (https://www.autonoma.edu.co/)
 - Anderson Alberto Ruales Torres
 - Daniel Arias-Garzón
 - Mario Alejandro Bravo-Ortiz
-- Harold Brayan Arteaga Arteaga
+- Harold Brayan Arteaga-Arteaga
 - Alejandro Mora-Rubio
-- Jesus Alejandro Alzate Grisales
-- Simon Orozco Arias
+- Jesus Alejandro Alzate-Grisales
+- Simon Orozco-Arias
 - Oscar Cardona-Morales
-- Reinel Tabares Soto
+- Reinel Tabares-Soto
 
 
 South Valley University (https://www.svu.edu.eg/en/)
