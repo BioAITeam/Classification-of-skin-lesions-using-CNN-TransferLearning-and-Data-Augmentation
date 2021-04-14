@@ -7,16 +7,25 @@ One of the most potent diseases we can find today is cancer. In this work, we fo
 - **Models** this folder contains the models used for the training of the databases mentioned above.
 
 
-# Requirements
-
+## Requirements
 This repository requires the following libraries and frameworks:
 
-    ->TensorFlow
-    ->numPy
-    ->OpenCV
-    ->Matplotlib
-    ->Scikit Learn
-    
+- TensorFlow 
+- scipy
+- scikit-learn
+- Datetime
+- numPy 
+- OpenCV 
+- Yellowbrick
+- Matplotlib
+- Time
+- random
+- os
+- scikit-image
+- glob
+
+This repository was developed in the Python3 (3.8) programming language.
+
 # Labels
 
 
