@@ -2,7 +2,11 @@
 
 One of the most potent diseases we can find today is cancer. In this work, we focused on pigmented reticular skin cancer, and although for now there are treatments that manage to save lives, many of these are either very new, in study stages, or do not work when the disease is already advanced. There is a tendency to use alternative methods to detect it at the right time and apply a treatment. This work is based on digital image processing and Deep Learning to obtain more significant characteristic parameters. With the design, a classification model employing convolution neural networks improved and adapted to our problem provides aid in pigment diagnosis, detecting cancer, and the type of skin lesion. We will make use of pre-trained models of Keras in order to find a model compatible with dermatological images and to be able to improve this model, adapting it and obtaining results above 95\%.
 
-
+## Folders
+- **CNNs Bifurcation** This folder contains the notebooks GBRAS-Net, Ye-Net, Xu-Net, Yedroudj-Net, VGG-16stego and VGG-19stego with a bifurcation for preprocessing of steganographic images. 
+- **ML_ActivationMaps_Filters** In the notebook **paperGBRAS-Net_ML_Activation_Maps.ipynb**, features are obtained from GBRAS-Net bifurcation and steganographic image classification is performed based on machine learning methods. In the notebooks **paperGBRAS-Net_activation_maps_tp_tpn_fp_fn.ipynb** and **paperGBRAS-Net_filters_activation_maps.ipynb** are the algorithms to obtain the different activation maps shown in this research.
+- **Trained_models_SRMbifurcation** This folder has trained models of the CNNs. 
+- 
 # Requirements
 
 This repository requires the following libraries and frameworks:
